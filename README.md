@@ -4,7 +4,7 @@ code from engineer's degree thesis
 
 ## Sample results
 
-1) [cat](./samples/cat1.png "Sample image 1")
+1) [cat](./samples/cat1.png "Sample image 1") <img src="./samples/cat1.png" width="50%" height="50%">
 2) [cat](./samples/cat2.png "Sample image 2")
 3) [cat](./samples/cat3.png "Sample image 3")
 4) [cat](./samples/cat4.png "Sample image 4")
